@@ -3,7 +3,7 @@ My name is Justin Navarro! Step into my GitHub profile, and explore an assortmen
 
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
-  You can reach me by emailing me directly at justinnavarr98@gmail.com , or send me an email through my portfolio website [justin-navarro.dev](https://justin-navarro.dev/)
+  You can reach me by emailing me directly at justinnavarr98@gmail.com , or send me an email through my portfolio website https://justin-navarro.dev/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
